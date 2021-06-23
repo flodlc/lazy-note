@@ -2,6 +2,13 @@
 
 Micro SaaS offline that allows to write notes and store them safely.
 
+## Install
+
+```
+npm run install
+npm run start
+```
+
 ## Technos
 
 -   React
